@@ -6,7 +6,7 @@
 
 1. Im Moment bin ich ganz gut unterwegs mit den Noten, aber habe momentan einige schwierigkeiten mit dem Modul 106.
 2. mein Verbesserungsvorschlag war, es besser im Team zu arbeiten, wesshalb ich auch diese Lernperiode wieder eine Partnerarbeit machen will.
-4. Ich möchte mit Mathieu eine Website programmieren.
+4. Ich möchte mit Mathieu eine Website programmieren mit html.
 
 ## 23.4.2024
 
