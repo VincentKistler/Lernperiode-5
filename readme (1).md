@@ -10,13 +10,12 @@
 
 ## 23.4.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+heute im Lernatelier habe ich mit Mathieu angeschaut, was alles möglich ist mit HTML. dazu habe ich auch am Modul 106 weitergearbeitet, für das Modul habe ich aufträge sowie die OBA erledigt. Eine Idee zu finden war sehr schwierig, da das Feld das uns mit HTMl ermöglicht wird extrem gross ist. letzt entlich habe ich mich dazu entschieden einen "Marketplace" mit Mathieu zusammen zumachen.
 
 ## 30.4.2024
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] unser Marketplace designen 
+- [ ] erstes Produkt einfügen
+- [ ] die über uns seite erstellen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
