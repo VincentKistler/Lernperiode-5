@@ -17,6 +17,16 @@ heute im Lernatelier habe ich mit Mathieu angeschaut, was alles möglich ist mit
 - [ ] erstes Produkt einfügen
 - [ ] die über uns seite erstellen
 
-✍️ Heute habe ich... (50-100 Wörter)
+## 17.05.2024
+
+Heute im Lernatelier habe ich eine Website angefangen. Die Website hat die gleichen Farben wie tutti, desshalb habe ich es auch tutti 2.0 genannt, zum verkauf stehen momentan 3 Artikel die ich zufällig gewählt habe, diese muss ich noch anpassen, da ich eigentlich will, das man ein Insserat aufgeben kann und das dies dann angezeigt wird. Einen Cart gibt es auch, leider funktioniert dieser noch nicht ganz, da muss ich nächstes mal schauen. Unten gibt es auch ein Impressum das mit teils fiktiven Angaben ausgefüllt wurde. (Wörter 86)
+
+## Lernpakete für den 24.05.2024
+
+- [ ] Den Shopping cart hinzufügen
+- [ ] Den Shopping cart designen und ihn anzeigen lassen welche Produkte man im Warenkorb hat.
+- [ ] An den Insseraten arbeiten und versuchen, das man mal ein Interface hat wo man das Insserat beschreiben kann
+- [ ] Falls Zeit bereits versuchen, das das Insserat dann auf der Website angezeigt wird.
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
