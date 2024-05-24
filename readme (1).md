@@ -29,4 +29,18 @@ Heute im Lernatelier habe ich eine Website angefangen. Die Website hat die gleic
 - [ ] Falls Zeit bereits versuchen, das das Insserat dann auf der Website angezeigt wird.
 
 
+
+Heute im Lernatelier habe ich an meiner Website weitergearbeitet sowie an verschiedenen Aufträgen von Moodle gearbeitet, da ich dot ein bisschen hintendrein war. An meiner Website habe ich den Shopping hinzugefügt und auch designt, jedoch gibt es immernoch kleine Komplikationen. Den Rest konnte ich aus Zeittechnischen Gründen nicht erledigen.
+
+
+## Lernpakete für den 31.05.2024
+
+- [ ] Den Shoppingcart endlich fixxen
+- [ ] Die Inserate einfügen
+- [ ] Ein Anmelde fenster hinzufügen
+- [ ] Ein Kontakt Feld hinzufügen
+
+      
+
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
