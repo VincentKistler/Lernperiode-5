@@ -40,6 +40,17 @@ Heute im Lernatelier habe ich an meiner Website weitergearbeitet sowie an versch
 - [ ] Ein Anmelde fenster hinzufügen
 - [ ] Ein Kontakt Feld hinzufügen
 
+
+Für den 31.05.2024 musste ich meine Arbeitspakete ein wenig anpassen, da ich am Montag sowie Mittwoch nicht ganz mit den vorgegebenen Aufträgen fertig wurde. Desshalb habe ich heute die restlichen Aufträge die ich noch zu erledigen hatte ausgefüllt und abgegeben. Mit den restlichen Sachen habe ich angefangen jedoch nicht richtig etwas fertig gekriegt. Desshalb würde ich die Arbeitspakete für nächstesmal kopieren.
+
+
+## Lernpakete für den 07.06.2024
+
+- [ ] Den Shoppingcart endlich fixxen
+- [ ] Die Inserate einfügen
+- [ ] Ein Anmelde fenster hinzufügen
+- [ ] Ein Kontakt Feld hinzufügen
+
       
 
 
