@@ -51,6 +51,11 @@ Für den 31.05.2024 musste ich meine Arbeitspakete ein wenig anpassen, da ich am
 - [ ] Ein Anmelde fenster hinzufügen
 - [ ] Ein Kontakt Feld hinzufügen
 
+
+Heute, am 07.06.2024, habe ich weiter an meiner Website gearbeitet. Ich habe endlich den Shopping-Cart gefixt; dieser wird nun richtig angezeigt, und man kann auch Waren in den Warenkorb legen und aus dem Warenkorb entfernen. Ein Interface, um Inserate aufzugeben, habe ich ebenfalls hinzugefügt. Man kann nun nach Lust und Laune ein Inserat aufgeben, das dann auch auf der Startseite angezeigt wird. Ein Anmelde-Interface gibt es nun auch, jedoch kann man sich dort mit jeder beliebigen Kombination von Anmeldedaten einloggen.
+
+## Lernpaket 
+
       
 
 
