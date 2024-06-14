@@ -61,6 +61,19 @@ Heute, am 07.06.2024, habe ich weiter an meiner Website gearbeitet. Ich habe end
 - [ ] Dokumente zusammenführen
 - [ ] Bewerbung vorbereiten um abzusenden
 
+
+
+Heute am 14.06.2024 habe ich an meiner Bewerbung mithilfe von meiner Mutter gearbeitet. Ich konnte bereits 3 Bewerbungen abschicken, bei Firmen die einen Automobilmechatroniker mangel haben. Von einer Firma habe ich bereits Rückmeldung bekommen, diese würden gerne eine Schnupperwoche mit mir machen. Von den 2 anderen Firmen habe ich bis jetzt noch nichts gehört, bin aber optimistisch, das es etwa gleich aussehen wird.
+
+
+
+## Lernpaket 21.06.2024
+
+- [ ] Falls es etwas an den Bewerbungen zu tun gibt, diese bearbeiten
+- [ ] Falls nicht, an meiner Website weiterarbeiten, das Anmelde Formular richtg machen, also man kann sich nicht einfach so anmelden
+- [ ] Am Portfoliobeitrag also OBA für Modul 122 arbeiten
+- [ ] Das Projekt von Modul 293 bearbeiten
+
       
 
 
