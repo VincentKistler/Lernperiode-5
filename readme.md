@@ -56,6 +56,11 @@ Heute, am 07.06.2024, habe ich weiter an meiner Website gearbeitet. Ich habe end
 
 ## Lernpaket 
 
+- [ ] Lebenslauf anpassen, fehler korrigieren
+- [ ] Motivationsschreiben ausformulieren
+- [ ] Dokumente zusammenführen
+- [ ] Bewerbung vorbereiten um abzusenden
+
       
 
 
